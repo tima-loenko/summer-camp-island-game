@@ -1,4 +1,4 @@
-import * as Phaser from './node_modules/phaser/dist/phaser';
+import 'phaser';
 
 var config = {
     type: Phaser.AUTO,
